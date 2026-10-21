@@ -7,17 +7,7 @@
   <a href="mailto:TODO-your-email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
 
-🚀 I build practical software where AI meets real-world problems. My recent work centers on **Retrieval-Augmented Generation (RAG)**, **agentic workflows with Deep Agents**, **LLM tracing and evaluation with LangSmith**, and secure systems, with an emphasis on answers that are grounded, observable, and evaluated rather than just "demo-able".
-
-🧠 I like pairing the right tool with the right job: vector search for fuzzy recall, SQL for deterministic math, and guardrails so the model never makes things up.
-
-🔐 I'm also interested in security fundamentals like hashing, RSA encryption, and tamper detection, and in explaining them in a way that beginners can follow.
-
-🌱 Always learning, always shipping. Let's connect and build something useful! 🌟
-
----
 
 ### 🛠️ Top Skills
 
