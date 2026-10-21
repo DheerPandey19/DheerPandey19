@@ -9,7 +9,7 @@
 
 ---
 
-🚀 I build practical software where AI meets real-world problems. My recent work centers on **Retrieval-Augmented Generation (RAG)**, agentic workflows, and secure systems, with an emphasis on answers that are grounded, observable, and evaluated rather than just "demo-able".
+🚀 I build practical software where AI meets real-world problems. My recent work centers on **Retrieval-Augmented Generation (RAG)**, **agentic workflows with Deep Agents**, **LLM tracing and evaluation with LangSmith**, and secure systems, with an emphasis on answers that are grounded, observable, and evaluated rather than just "demo-able".
 
 🧠 I like pairing the right tool with the right job: vector search for fuzzy recall, SQL for deterministic math, and guardrails so the model never makes things up.
 
@@ -26,6 +26,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Deep Agents](https://img.shields.io/badge/Deep%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tech Stack
@@ -41,6 +43,8 @@
 **GenAI & Data**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Deep Agents](https://img.shields.io/badge/Deep%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,51 +61,12 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 💳 [CardSense: GenAI Credit Card Assistant](https://github.com/DheerPandey19/credit-card-assistant-showcase)
-A conversational assistant that helps users discover, compare, and optimize **Indian credit cards**, built on hybrid RAG, a structured reward-rule optimizer, and agentic web enrichment.
-
-- 🔎 **Hybrid dual-store retrieval:** FAISS for semantic recall, Postgres/Supabase for deterministic reward math
-- 🧩 **Facet-level chunking:** typed chunks (`rewards`, `fees_and_charges`, `lounge_access`, `eligibility`) for smarter ranking
-- 🧮 **Spend optimizer:** picks the card *combination* that maximizes net annual rewards minus fees
-- ⚡ **Speculative web enrichment:** parallel web fetches fill knowledge gaps without slowing responses
-- 🛡️ **Deterministic guardrails:** web-backed retry loop, and no hallucinated user income or eligibility
-- 📈 **Observability & evals:** Langfuse tracing and RAGAS evaluation
-
-`Python` `FastAPI` `LangChain` `OpenAI` `FAISS` `PostgreSQL` `Next.js` `Playwright` `Langfuse` `Docker` `AWS`
-
-🔗 [Architecture write-up](https://github.com/DheerPandey19/credit-card-assistant-showcase) · [Live demo](https://cr-dfa8edf4e50d473db675bd58088bfc86.ecs.ap-south-1.on.aws/)
-
----
-
-#### 🔐 [DocTrust-QR: Secure Document Verification System](https://github.com/DheerPandey19/DocTrust-QR)
-A Python system that lets a recruiter check whether a candidate's **resume and marksheet are authentic**, without phoning the college every time.
-
-- 🏛️ **Four cooperating services:** Central Server, Institute, Candidate, Recruiter
-- 🔏 **SHA-256 fingerprints** detect any change to document text
-- 🔑 **RSA-encrypted** hash storage and retrieval
-- 📱 **QR-based sharing** of compressed document text
-- ✅ End-to-end demo covering both *authentic* and *tampered* cases
-
-`Python` `RSA` `SHA-256` `pdfplumber` `pyzbar` `Sockets`
-
----
-
-### 📂 More Projects
-
-<!-- TODO: add your other repos here, one line each. Example:
-- [project-name](https://github.com/DheerPandey19/project-name): one-line description
--->
-
----
-
 ### 🌱 Currently
 
-- 🔭 Working on: **GenAI applications: RAG, agents, evaluation**
-- 🌱 Learning: **advanced RAG patterns, LLM observability, system design**
+- 🔭 Working on: **GenAI applications: RAG, Deep Agents, LangSmith tracing & evals**
+- 🌱 Learning: **advanced agent architectures, LLM observability, system design**
 - 👯 Looking to collaborate on: **open-source / AI projects**
-- 💬 Ask me about: **RAG pipelines, FastAPI, secure systems**
+- 💬 Ask me about: **RAG pipelines, Deep Agents, LangSmith, FastAPI, secure systems**
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/TODO-your-linkedin/)** · **[Email](mailto:TODO-your-email@example.com)**
 
 ---
