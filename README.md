@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/-Dheer-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/DheerPandey19"><img src="https://img.shields.io/github/followers/DheerPandey19?label=follow&style=social" alt="GitHub followers"></a>
-  <a href="mailto:TODO-your-email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="dheerpandey19@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 
