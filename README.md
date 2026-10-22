@@ -2,9 +2,9 @@
 <h3 align="center">GenAI & Backend Developer · Building grounded, traceable AI systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/-Dheer-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dheer-pandey-b75958245"><img src="https://img.shields.io/badge/-Dheer-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/DheerPandey19"><img src="https://img.shields.io/github/followers/DheerPandey19?label=follow&style=social" alt="GitHub followers"></a>
-  <a href="dheerpandey19@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:dheerpandey19@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 
@@ -55,7 +55,7 @@
 - 🌱 Learning: **advanced agent architectures, LLM observability, system design**
 - 👯 Looking to collaborate on: **open-source / AI projects**
 - 💬 Ask me about: **RAG pipelines, Deep Agents, LangSmith, FastAPI, secure systems**
-- 📫 Reach me: **[LinkedIn](www.linkedin.com/in/dheer-pandey-b75958245)** · **[Email](mailto:TODO-your-email@example.com)**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/dheer-pandey-b75958245)** · **[Email](mailto:dheerpandey19@gmail.com)**
 
 ---
 
