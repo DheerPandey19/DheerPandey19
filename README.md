@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Dheer Pandey</h1>
+<h1 align="center">Hi there! I'm Dheer Pandey</h1>
 <h3 align="center">GenAI & Backend Developer · Building grounded, traceable AI systems</h3>
 
 <p align="center">
