@@ -55,7 +55,7 @@
 - 🌱 Learning: **advanced agent architectures, LLM observability, system design**
 - 👯 Looking to collaborate on: **open-source / AI projects**
 - 💬 Ask me about: **RAG pipelines, Deep Agents, LangSmith, FastAPI, secure systems**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/TODO-your-linkedin/)** · **[Email](mailto:TODO-your-email@example.com)**
+- 📫 Reach me: **[LinkedIn](www.linkedin.com/in/dheer-pandey-b75958245)** · **[Email](mailto:TODO-your-email@example.com)**
 
 ---
 
