@@ -9,7 +9,7 @@
 
 
 
-### 🛠️ Top Skills
+###  Top Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -19,7 +19,7 @@
 ![Deep Agents](https://img.shields.io/badge/Deep%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**
 
@@ -49,13 +49,13 @@
 
 ---
 
-### 🌱 Currently
+###  Currently
 
-- 🔭 Working on: **GenAI applications: RAG, Deep Agents, LangSmith tracing & evals**
-- 🌱 Learning: **advanced agent architectures, LLM observability, system design**
-- 👯 Looking to collaborate on: **open-source / AI projects**
-- 💬 Ask me about: **RAG pipelines, Deep Agents, LangSmith, FastAPI, secure systems**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/dheer-pandey-b75958245)** · **[Email](mailto:dheerpandey19@gmail.com)**
+-  Working on: **GenAI applications: RAG, Deep Agents, LangSmith tracing & evals**
+-  Learning: **advanced agent architectures, LLM observability, system design**
+-  Looking to collaborate on: **open-source / AI projects**
+-  Ask me about: **RAG pipelines, Deep Agents, LangSmith, FastAPI, secure systems**
+-  Reach me: **[LinkedIn](https://www.linkedin.com/in/dheer-pandey-b75958245)** · **[Email](mailto:dheerpandey19@gmail.com)**
 
 ---
 
