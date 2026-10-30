@@ -55,10 +55,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DheerPandey19&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerPandey19&theme=dark&hide_border=true&layout=compact" />
-</p>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=DheerPandey19&theme=dark&hide_border=true" />
